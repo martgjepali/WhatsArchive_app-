@@ -4,6 +4,7 @@ node_modules/
 # Ignore build output
 dist/
 output/
+tests/
 
 # Ignore TypeScript build cache and logs
 *.tsbuildinfo
