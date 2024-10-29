@@ -1,0 +1,33 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore build output
+dist/
+output/
+
+# Ignore TypeScript build cache and logs
+*.tsbuildinfo
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore compiled JavaScript files (if TypeScript is used)
+*.js
+*.js.map
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore package lock and yarn lock if you don't need to track them
+# Uncomment the below line if you don't want to track the lock file
+# package-lock.json
+# yarn.lock
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore OS generated files
+*.swp
+*.swo

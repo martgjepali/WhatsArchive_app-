@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sweeden;Irda;;;
+FN:Irda Sweeden
+TEL;type=CELL;type=VOICE;waid=46700226676:+46 70 022 66 76
+END:VCARD
