@@ -28,8 +28,7 @@ Follow these steps to get your development environment running:
 
 2. **Building the Project**
 
-    Before running the CLI, you need to compile the TypeScript files into JavaScript. Execute the following command to build the project:
-    npm run build
+    Before running the CLI, you need to compile the TypeScript files into JavaScript. Execute the following command to build the project: npm run build
     This step compiles the TypeScript code into executable JavaScript code in the dist directory.
 
 3. **Usage**
