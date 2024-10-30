@@ -28,10 +28,15 @@ Follow these steps to get your development environment running:
 
 2. **Building the Project**
 
-    Before running the CLI, you need to compile the TypeScript files into JavaScript. Execute the following command to build the project: npm run build
+    Before running the CLI, you need to compile the TypeScript files into JavaScript. Execute the following command to build the project: 
+    ```bash
+    npm run build
+    
     This step compiles the TypeScript code into executable JavaScript code in the dist directory.
 
 3. **Usage**
     To use the WhatsApp Archive CLI, you need to run the parse command with appropriate options:
+    ```bash
     node dist/index.js parse --input <path_to_zip> --output <output_directory> --me <your_md5_hash> --group
+    
     This command will extract the chat data from the specified ZIP archive and output it along with any media conversions into the ./output directory.
