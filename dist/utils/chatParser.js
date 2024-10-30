@@ -36,7 +36,7 @@ function parseChatContent(content, meHash, isGroupChat) {
             if (mediaMatch) {
                 const mediaFile = mediaMatch[1].trim();
                 chatMessages.push({
-                    type: "media",
+                    type: "msg",
                     index: msgIndex++,
                     tstamp: timestamp,
                     message: mediaFile,
@@ -94,7 +94,7 @@ function parseChatContent(content, meHash, isGroupChat) {
             if (mediaMatch) {
                 const mediaFile = mediaMatch[1].trim();
                 chatMessages.push({
-                    type: "media",
+                    type: "msg",
                     index: msgIndex++,
                     tstamp: lastTimestamp, // Use the last valid timestamp
                     message: mediaFile,

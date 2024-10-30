@@ -2,7 +2,7 @@
   "groupChat": true,
   "chatName": "Group Chat",
   "me": "16fa493f8783742fa88597f022f9df07",
-  "hash": "4a3286311ad259db3249cb5d4f4e2155",
+  "hash": "90df241b44dfa922512818523beb1d8c",
   "chatLog": [
     {
       "type": "dchange",
@@ -165,7 +165,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 18,
       "tstamp": 1601070775,
       "message": "00000020-AUDIO-2020-09-25-23-53-04.opus"
@@ -904,7 +904,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1612628922,
       "message": "00000087-AUDIO-2021-02-08-19-03-47.opus"
@@ -926,7 +926,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1613134456,
       "message": "00000094-Klajdi Kompjuter Iptv.vcf"
@@ -2346,7 +2346,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 13,
       "tstamp": 1618490943,
       "message": "00000291-Teo Kolemico.vcf"
@@ -2447,7 +2447,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1619433874,
       "message": "00000304-Dr Kafshesh Martini.vcf"
@@ -2501,7 +2501,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1619789038,
       "message": "00000309-sel Xhabraimi.vcf"
@@ -3783,7 +3783,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1624635108,
       "message": "00000442-Vikja.vcf"
@@ -4215,7 +4215,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1624951873,
       "message": "00000488-Liri Dj Adam Rives.vcf"
@@ -5616,7 +5616,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 15,
       "tstamp": 1628317311,
       "message": "00000646-Toni Hotel Natali Drymadh.vcf"
@@ -8054,7 +8054,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 28,
       "tstamp": 1634296345,
       "message": "00000929-AUDIO-2021-10-15-13-13-06.opus"
@@ -8227,7 +8227,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1634635483,
       "message": "00000947-AUDIO-2021-10-19-11-29-24.opus"
@@ -8330,13 +8330,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1634724558,
       "message": "00000959-AUDIO-2021-10-20-12-09-48.opus"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1634724558,
       "message": "00000960-AUDIO-2021-10-20-12-10-07.opus"
@@ -8395,7 +8395,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1635102553,
       "message": "00000966-Visi 5 Cavali .vcf"
@@ -8453,7 +8453,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1636744770,
       "message": "00000973-Enea Korce .vcf"
@@ -8560,7 +8560,7 @@
       "message": "https://youtu.be/7n91XwL5--Y"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1638086570,
       "message": "00000984-Dori Auto Gaz.vcf"
@@ -8680,7 +8680,7 @@
       "message": "‎[9.12.21, 14:12:30] BOLI: Formular_Aktivizimi_M12219015E_2021_12_07.pdf • ‎2 pages ‎document omitted"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1638707307,
       "message": "00001000-Gzimi Goma.vcf"
@@ -9624,7 +9624,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1645180115,
       "message": "00001099-Skerdi.vcf"
@@ -10298,7 +10298,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1647794669,
       "message": "00001165-AUDIO-2022-03-23-17-54-53.opus"
@@ -11025,7 +11025,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 15,
       "tstamp": 1651357232,
       "message": "00001239-Van Gjonaj.vcf"
@@ -11280,13 +11280,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1653066215,
       "message": "00001270-AUDIO-2022-05-24-11-35-15.opus"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 17,
       "tstamp": 1653066215,
       "message": "00001271-AUDIO-2022-05-24-11-35-25.opus"
@@ -11603,7 +11603,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 20,
       "tstamp": 1654027270,
       "message": "00001310-AUDIO-2022-06-10-11-31-52.opus"
@@ -12773,7 +12773,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 69,
       "tstamp": 1655399197,
       "message": "00001440-AUDIO-2022-06-16-19-06-49.opus"
@@ -12806,7 +12806,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 73,
       "tstamp": 1655399231,
       "message": "00001444-AUDIO-2022-06-16-19-07-20.opus"
@@ -14830,7 +14830,7 @@
       "message": "😂😂😂😂https://vm.tiktok.com/ZMNCySx5s/?k=1"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1658684659,
       "message": "00001671-Klinika Trust Moza Shabani.vcf"
@@ -14895,7 +14895,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1659548359,
       "message": "00001677-VIDEO-2022-08-06-23-47-56.mp4"
@@ -14917,7 +14917,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1659826544,
       "message": "00001679-VIDEO-2022-08-07-00-56-47.mp4"
@@ -15128,7 +15128,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1660306227,
       "message": "00001702-PHOTO-2022-08-12-14-10-39.jpg"
@@ -15197,19 +15197,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 24,
       "tstamp": 1660306413,
       "message": "00001710-Bruno Brazhda.vcf"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 25,
       "tstamp": 1660306413,
       "message": "00001711-PHOTO-2022-08-15-12-28-48.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 26,
       "tstamp": 1660306413,
       "message": "00001712-Taulanti Shofer Vaji.vcf"
@@ -15249,13 +15249,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1660654168,
       "message": "00001716-PHOTO-2022-08-16-15-20-02.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1660654168,
       "message": "00001717-PHOTO-2022-08-16-15-39-06.jpg"
@@ -15327,7 +15327,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 14,
       "tstamp": 1660658026,
       "message": "00001726-VIDEO-2022-08-17-23-34-51.mp4"
@@ -15416,7 +15416,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1661018912,
       "message": "00001735-VIDEO-2022-08-23-13-26-20.mp4"
@@ -15730,7 +15730,7 @@
       "message": "Emri rruges esht James St"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 34,
       "tstamp": 1661374065,
       "message": "00001766-PHOTO-2022-08-24-23-26-47.jpg"
@@ -15782,7 +15782,7 @@
       "message": "Bashkëngjitur keni disa nga shërbimet tona!"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1661612080,
       "message": "00001770-PHOTO-2022-08-27-16-54-40.jpg"
@@ -15901,25 +15901,25 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1661724940,
       "message": "00001785-VIDEO-2022-09-04-18-26-12.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1661724940,
       "message": "00001786-VIDEO-2022-09-04-18-26-14.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1661724940,
       "message": "00001787-VIDEO-2022-09-04-18-26-15.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1661724940,
       "message": "00001788-PHOTO-2022-09-08-13-21-42.jpg"
@@ -16440,7 +16440,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1664297015,
       "message": "00001840-PHOTO-2022-09-27-21-11-18.jpg"
@@ -16868,7 +16868,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 20,
       "tstamp": 1665087730,
       "message": "00001878-PHOTO-2022-10-06-22-22-10.jpg"
@@ -16907,7 +16907,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 25,
       "tstamp": 1665087738,
       "message": "00001882-VIDEO-2022-10-08-14-33-57.mp4"
@@ -16947,7 +16947,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1665261457,
       "message": "00001886-Olgi Teknik Kompjuter.vcf"
@@ -16969,7 +16969,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1665408395,
       "message": "00001888-DATABASE email.docx"
@@ -17160,37 +17160,37 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1666591360,
       "message": "00001905-PHOTO-2022-10-26-17-19-30.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1666591360,
       "message": "00001906-PHOTO-2022-10-26-18-23-42.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1666591360,
       "message": "00001907-PHOTO-2022-10-26-18-23-42.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1666591360,
       "message": "00001908-PHOTO-2022-10-26-18-23-42.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1666591360,
       "message": "00001909-PHOTO-2022-10-26-18-23-42.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1666591360,
       "message": "00001910-PHOTO-2022-10-26-18-23-42.jpg"
@@ -17338,7 +17338,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1666802293,
       "message": "00001926-PHOTO-2022-10-29-13-07-12.jpg"
@@ -17369,13 +17369,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1667042763,
       "message": "00001929-PHOTO-2022-10-29-14-05-59.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1667042763,
       "message": "00001930-PHOTO-2022-10-29-14-33-57.jpg"
@@ -17399,7 +17399,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1667046926,
       "message": "00001933-AUDIO-2022-10-29-15-04-05.opus"
@@ -17414,7 +17414,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1667048671,
       "message": "00001935-VIDEO-2022-10-30-02-00-28.mp4"
@@ -17481,7 +17481,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1667162831,
       "message": "00001942-FatureElektronike_386_2022-10-28_O&B SHPK.pdf"
@@ -17557,13 +17557,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1667809194,
       "message": "00001947-PHOTO-2022-11-07-09-49-38.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1667809194,
       "message": "00001948-Dr  Aurel Kopeci.vcf"
@@ -17682,25 +17682,25 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 11,
       "tstamp": 1669664527,
       "message": "00001961-1669471601-cd911-53.pdf"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1669664527,
       "message": "00001962-1669471601-cd911-54.pdf"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 13,
       "tstamp": 1669664527,
       "message": "00001963-1669471601-cd911-55.pdf"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 14,
       "tstamp": 1669664527,
       "message": "00001964-1669471601-cd911-56.pdf"
@@ -17868,7 +17868,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 33,
       "tstamp": 1669668961,
       "message": "00001983-PHOTO-2022-11-30-09-51-51.jpg"
@@ -17890,7 +17890,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1669798371,
       "message": "00001985-PHOTO-2022-12-02-17-01-09.jpg"
@@ -17902,37 +17902,37 @@
       "message": "‎[3.12.22, 16:38:07] Mart: ‎video omitted"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1669798371,
       "message": "00001987-PHOTO-2022-12-03-19-32-54.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1669798371,
       "message": "00001988-PHOTO-2022-12-03-19-32-54.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1669798371,
       "message": "00001989-PHOTO-2022-12-03-19-32-55.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1669798371,
       "message": "00001990-PHOTO-2022-12-03-19-32-55.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1669798371,
       "message": "00001991-PHOTO-2022-12-03-19-32-55.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1669798371,
       "message": "00001992-PHOTO-2022-12-03-19-32-55.jpg"
@@ -18300,7 +18300,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 18,
       "tstamp": 1670345461,
       "message": "00002032-Dj Besi Tironc.vcf"
@@ -18443,7 +18443,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1671967770,
       "message": "00002046-VIDEO-2022-12-27-20-12-55.mp4"
@@ -18633,37 +18633,37 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 21,
       "tstamp": 1672169900,
       "message": "00002066-PHOTO-2023-01-04-09-37-03.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 22,
       "tstamp": 1672169900,
       "message": "00002067-PHOTO-2023-01-04-09-37-04.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 23,
       "tstamp": 1672169900,
       "message": "00002068-PHOTO-2023-01-04-09-37-04.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 24,
       "tstamp": 1672169900,
       "message": "00002069-VIDEO-2023-01-04-09-37-06.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 25,
       "tstamp": 1672169900,
       "message": "00002070-PHOTO-2023-01-04-09-37-06.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 26,
       "tstamp": 1672169900,
       "message": "00002071-PHOTO-2023-01-04-09-37-06.jpg"
@@ -18987,13 +18987,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1673997515,
       "message": "00002105-PHOTO-2023-01-18-09-03-51.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1673997515,
       "message": "00002106-PHOTO-2023-01-18-09-03-52.jpg"
@@ -19015,13 +19015,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1674120798,
       "message": "00002108-PHOTO-2023-01-19-10-43-43.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1674120798,
       "message": "00002109-PHOTO-2023-01-19-10-43-49.jpg"
@@ -19060,13 +19060,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1674147945,
       "message": "00002113-PHOTO-2023-01-19-18-39-52.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1674147945,
       "message": "00002114-PHOTO-2023-01-19-18-39-52.jpg"
@@ -19137,13 +19137,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1674426468,
       "message": "00002121-PHOTO-2023-01-23-22-16-49.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1674426468,
       "message": "00002122-PHOTO-2023-01-25-20-24-50.jpg"
@@ -19340,25 +19340,25 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 19,
       "tstamp": 1674723459,
       "message": "00002142-PHOTO-2023-01-26-13-05-37.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 20,
       "tstamp": 1674723459,
       "message": "00002143-PHOTO-2023-01-26-13-06-07.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 21,
       "tstamp": 1674723459,
       "message": "00002144-PHOTO-2023-01-26-13-06-08.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 22,
       "tstamp": 1674723459,
       "message": "00002145-PHOTO-2023-01-26-13-06-08.jpg"
@@ -19635,163 +19635,163 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1675961166,
       "message": "00002173-PHOTO-2023-02-09-19-56-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1675961166,
       "message": "00002174-PHOTO-2023-02-09-19-56-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1675961166,
       "message": "00002175-PHOTO-2023-02-09-19-56-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1675961166,
       "message": "00002176-PHOTO-2023-02-09-19-56-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1675961166,
       "message": "00002177-PHOTO-2023-02-09-19-56-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1675961166,
       "message": "00002178-PHOTO-2023-02-09-19-56-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1675961166,
       "message": "00002179-PHOTO-2023-02-09-19-56-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1675961166,
       "message": "00002180-PHOTO-2023-02-09-19-56-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1675961166,
       "message": "00002181-PHOTO-2023-02-09-19-56-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 11,
       "tstamp": 1675961166,
       "message": "00002182-PHOTO-2023-02-09-19-56-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1675961166,
       "message": "00002183-PHOTO-2023-02-09-19-56-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 13,
       "tstamp": 1675961166,
       "message": "00002184-PHOTO-2023-02-09-19-56-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 14,
       "tstamp": 1675961166,
       "message": "00002185-PHOTO-2023-02-09-19-56-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 15,
       "tstamp": 1675961166,
       "message": "00002186-PHOTO-2023-02-09-19-56-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1675961166,
       "message": "00002187-PHOTO-2023-02-09-19-56-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 17,
       "tstamp": 1675961166,
       "message": "00002188-PHOTO-2023-02-09-19-56-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 18,
       "tstamp": 1675961166,
       "message": "00002189-PHOTO-2023-02-09-19-56-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 19,
       "tstamp": 1675961166,
       "message": "00002190-PHOTO-2023-02-09-19-56-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 20,
       "tstamp": 1675961166,
       "message": "00002191-PHOTO-2023-02-09-19-56-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 21,
       "tstamp": 1675961166,
       "message": "00002192-PHOTO-2023-02-09-19-56-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 22,
       "tstamp": 1675961166,
       "message": "00002193-PHOTO-2023-02-09-19-56-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 23,
       "tstamp": 1675961166,
       "message": "00002194-PHOTO-2023-02-09-19-56-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 24,
       "tstamp": 1675961166,
       "message": "00002195-PHOTO-2023-02-09-19-56-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 25,
       "tstamp": 1675961166,
       "message": "00002196-PHOTO-2023-02-09-19-56-20.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 26,
       "tstamp": 1675961166,
       "message": "00002197-PHOTO-2023-02-09-19-56-20.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 27,
       "tstamp": 1675961166,
       "message": "00002198-PHOTO-2023-02-09-19-56-20.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 28,
       "tstamp": 1675961166,
       "message": "00002199-PHOTO-2023-02-09-19-56-20.jpg"
@@ -20000,7 +20000,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 15,
       "tstamp": 1676114198,
       "message": "00002226-PHOTO-2023-02-11-12-17-09.jpg"
@@ -20157,31 +20157,31 @@
       "message": "https://www.ontariocars.ca/bmw/x5/standard/2016/688517?VehicleTypeCategory=0&YearFrom=2015&YearTo=2016&FuelType=1&FuelTypeName=Diesel&MakeName=BMW&ModelName=X5&dealerId=2165&page=1"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1676205029,
       "message": "00002241-PHOTO-2023-02-12-13-43-36.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1676205029,
       "message": "00002242-PHOTO-2023-02-12-13-44-52.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1676205029,
       "message": "00002243-PHOTO-2023-02-12-14-02-05.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1676205029,
       "message": "00002244-PHOTO-2023-02-12-14-04-55.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1676205029,
       "message": "00002245-PHOTO-2023-02-12-14-04-55.jpg"
@@ -21289,61 +21289,61 @@
       "message": "Po do e mbash mbyll tek venue jo me e parku te shpia"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 125,
       "tstamp": 1676497074,
       "message": "00002363-PHOTO-2023-02-16-13-10-02.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 126,
       "tstamp": 1676497074,
       "message": "00002364-PHOTO-2023-02-16-13-10-02.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 127,
       "tstamp": 1676497074,
       "message": "00002365-PHOTO-2023-02-16-13-10-04.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 128,
       "tstamp": 1676497074,
       "message": "00002366-PHOTO-2023-02-16-13-10-06.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 129,
       "tstamp": 1676497074,
       "message": "00002367-PHOTO-2023-02-16-13-10-06.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 130,
       "tstamp": 1676497074,
       "message": "00002368-PHOTO-2023-02-16-13-10-06.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 131,
       "tstamp": 1676497074,
       "message": "00002369-PHOTO-2023-02-16-13-10-06.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 132,
       "tstamp": 1676497074,
       "message": "00002370-PHOTO-2023-02-16-13-10-06.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 133,
       "tstamp": 1676497074,
       "message": "00002371-PHOTO-2023-02-16-13-10-06.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 134,
       "tstamp": 1676497074,
       "message": "00002372-PHOTO-2023-02-16-13-10-08.jpg"
@@ -21606,13 +21606,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1676838759,
       "message": "00002398-VIDEO-2023-02-19-22-59-11.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1676838759,
       "message": "00002399-VIDEO-2023-02-21-17-19-25.mp4"
@@ -21634,7 +21634,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1676996737,
       "message": "00002401-VIDEO-2023-02-21-17-33-05.mp4"
@@ -22112,67 +22112,67 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1678117005,
       "message": "00002449-PHOTO-2023-03-10-16-15-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1678117005,
       "message": "00002450-PHOTO-2023-03-10-16-15-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1678117005,
       "message": "00002451-PHOTO-2023-03-10-16-15-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1678117005,
       "message": "00002452-PHOTO-2023-03-10-16-15-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1678117005,
       "message": "00002453-PHOTO-2023-03-10-16-15-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1678117005,
       "message": "00002454-PHOTO-2023-03-10-16-15-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1678117005,
       "message": "00002455-PHOTO-2023-03-10-16-15-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1678117005,
       "message": "00002456-PHOTO-2023-03-10-16-15-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1678117005,
       "message": "00002457-PHOTO-2023-03-10-16-15-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 11,
       "tstamp": 1678117005,
       "message": "00002458-PHOTO-2023-03-10-16-15-17.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1678117005,
       "message": "00002459-PHOTO-2023-03-10-16-15-17.jpg"
@@ -22219,7 +22219,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1678745441,
       "message": "00002463-PHOTO-2023-03-13-23-11-12.jpg"
@@ -22324,7 +22324,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 14,
       "tstamp": 1678746858,
       "message": "00002475-PHOTO-2023-03-16-10-48-34.jpg"
@@ -22571,7 +22571,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 28,
       "tstamp": 1678961582,
       "message": "00002500-AUDIO-2023-03-16-13-50-39.opus"
@@ -22629,7 +22629,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1679035928,
       "message": "00002506-PHOTO-2023-03-17-12-15-11.jpg"
@@ -22653,7 +22653,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1679062631,
       "message": "00002509-PHOTO-2023-03-17-15-20-50.jpg"
@@ -22668,13 +22668,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1679062860,
       "message": "00002511-PHOTO-2023-03-17-15-21-38.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1679062860,
       "message": "00002512-PHOTO-2023-03-17-15-24-49.jpg"
@@ -22689,19 +22689,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1679063100,
       "message": "00002514-PHOTO-2023-03-17-15-25-11.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 11,
       "tstamp": 1679063100,
       "message": "00002515-PHOTO-2023-03-17-15-25-57.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1679063100,
       "message": "00002516-PHOTO-2023-03-17-15-25-57.jpg"
@@ -22743,7 +22743,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 17,
       "tstamp": 1679063291,
       "message": "00002521-PHOTO-2023-03-17-15-29-05.jpg"
@@ -23046,7 +23046,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 51,
       "tstamp": 1679065496,
       "message": "00002555-PHOTO-2023-03-17-16-07-21.jpg"
@@ -23100,7 +23100,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 58,
       "tstamp": 1679065744,
       "message": "00002560-PHOTO-2023-03-17-16-09-14.jpg"
@@ -23160,7 +23160,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 65,
       "tstamp": 1679065859,
       "message": "00002567-AUDIO-2023-03-17-16-11-05.opus"
@@ -23238,7 +23238,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 74,
       "tstamp": 1679066053,
       "message": "00002576-PHOTO-2023-03-17-16-14-26.jpg"
@@ -23275,7 +23275,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1679188595,
       "message": "00002579-PHOTO-2023-03-19-02-29-29.jpg"
@@ -23396,13 +23396,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1679301476,
       "message": "00002592-PHOTO-2023-03-20-22-13-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1679301476,
       "message": "00002593-PHOTO-2023-03-27-18-06-52.jpg"
@@ -23501,19 +23501,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1680094371,
       "message": "00002602-PHOTO-2023-03-29-14-52-57.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1680094371,
       "message": "00002603-PHOTO-2023-03-29-14-52-58.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1680094371,
       "message": "00002604-PHOTO-2023-03-29-14-52-58.jpg"
@@ -23646,7 +23646,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1681133301,
       "message": "00002616-VIDEO-2023-04-10-15-29-16.mp4"
@@ -23805,7 +23805,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 23,
       "tstamp": 1681147085,
       "message": "00002634-VIDEO-2023-04-10-19-18-47.mp4"
@@ -23845,7 +23845,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1681226520,
       "message": "00002638-VIDEO-2023-04-11-18-07-47.mp4"
@@ -23984,7 +23984,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 15,
       "tstamp": 1681290368,
       "message": "00002653-PHOTO-2023-04-12-11-58-48.jpg"
@@ -24035,13 +24035,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 21,
       "tstamp": 1681302725,
       "message": "00002659-PHOTO-2023-04-13-09-39-44.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 22,
       "tstamp": 1681302725,
       "message": "00002660-PHOTO-2023-04-13-09-39-51.jpg"
@@ -24195,7 +24195,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 17,
       "tstamp": 1681380694,
       "message": "00002676-PHOTO-2023-04-13-12-11-45.jpg"
@@ -24505,13 +24505,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1681516995,
       "message": "00002710-PHOTO-2023-04-15-02-06-46.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1681516995,
       "message": "00002711-PHOTO-2023-04-15-02-06-54.jpg"
@@ -24850,7 +24850,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1682205527,
       "message": "00002746-PHOTO-2023-04-25-11-40-12.jpg"
@@ -25586,7 +25586,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1683123215,
       "message": "00002822-PHOTO-2023-05-03-16-14-34.jpg"
@@ -25632,7 +25632,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1683178639,
       "message": "00002826-VIDEO-2023-05-04-15-15-51.mp4"
@@ -25800,7 +25800,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 23,
       "tstamp": 1683211788,
       "message": "00002845-PHOTO-2023-05-04-17-06-04.jpg"
@@ -25854,7 +25854,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1684071105,
       "message": "00002849-PHOTO-2023-05-14-15-33-55.jpg"
@@ -26212,7 +26212,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1685397030,
       "message": "00002887-PHOTO-2023-06-07-09-20-02.jpg"
@@ -26367,13 +26367,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1686228774,
       "message": "00002903-PHOTO-2023-06-08-14-55-15.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1686228774,
       "message": "00002904-PHOTO-2023-06-08-14-55-27.jpg"
@@ -26759,7 +26759,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1686388053,
       "message": "00002945-AUDIO-2023-06-10-11-23-18.opus"
@@ -26828,7 +26828,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 20,
       "tstamp": 1686390359,
       "message": "00002953-PHOTO-2023-06-10-12-03-37.jpg"
@@ -27050,7 +27050,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 45,
       "tstamp": 1686394794,
       "message": "00002978-PHOTO-2023-06-10-13-03-48.jpg"
@@ -27909,7 +27909,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 93,
       "tstamp": 1687205526,
       "message": "00003047-PHOTO-2023-06-22-21-28-14.jpg"
@@ -27949,7 +27949,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1687463039,
       "message": "00003051-VIDEO-2023-06-23-16-53-48.mp4"
@@ -27971,13 +27971,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1687881428,
       "message": "00003053-PHOTO-2023-06-30-16-18-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1687881428,
       "message": "00003054-PHOTO-2023-06-30-16-18-17.jpg"
@@ -27999,7 +27999,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1688209398,
       "message": "00003056-PHOTO-2023-07-02-15-59-59.jpg"
@@ -28154,25 +28154,25 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1688658182,
       "message": "00003072-PHOTO-2023-07-06-18-05-57.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1688658182,
       "message": "00003073-PHOTO-2023-07-06-18-06-02.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1688658182,
       "message": "00003074-PHOTO-2023-07-06-18-06-07.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1688658182,
       "message": "00003075-AUDIO-2023-07-06-18-12-03.opus"
@@ -28187,13 +28187,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1688660210,
       "message": "00003077-AUDIO-2023-07-06-18-17-32.opus"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1688660210,
       "message": "00003078-AUDIO-2023-07-06-18-18-23.opus"
@@ -28454,7 +28454,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1689231467,
       "message": "00003105-PHOTO-2023-07-13-15-33-30.jpg"
@@ -28573,7 +28573,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1689702125,
       "message": "00003117-PHOTO-2023-07-26-18-07-41.jpg"
@@ -28620,7 +28620,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1690737527,
       "message": "00003121-VIDEO-2023-08-06-12-58-54.mp4"
@@ -28660,13 +28660,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1691384532,
       "message": "00003125-PHOTO-2023-08-07-07-33-27.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1691384532,
       "message": "00003126-PHOTO-2023-08-07-07-33-27.jpg"
@@ -28911,7 +28911,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1694295925,
       "message": "00003149-VIDEO-2023-09-10-00-33-56.mp4"
@@ -29035,7 +29035,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1695136744,
       "message": "00003160-VIDEO-2023-09-21-07-37-28.mp4"
@@ -29098,19 +29098,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1695652945,
       "message": "00003166-PHOTO-2023-09-25-18-15-05.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1695652945,
       "message": "00003167-VIDEO-2023-09-25-18-15-38.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1695652945,
       "message": "00003168-VIDEO-2023-09-25-18-16-34.mp4"
@@ -29132,7 +29132,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1695966963,
       "message": "00003170-PHOTO-2023-09-29-15-32-12.jpg"
@@ -29352,7 +29352,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 15,
       "tstamp": 1696257251,
       "message": "00003194-PHOTO-2023-10-07-17-36-13.jpg"
@@ -29478,25 +29478,25 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1697554151,
       "message": "00003206-PHOTO-2023-10-28-13-27-43.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1697554151,
       "message": "00003207-PHOTO-2023-10-28-13-27-43.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1697554151,
       "message": "00003208-PHOTO-2023-10-28-13-27-43.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1697554151,
       "message": "00003209-PHOTO-2023-10-28-13-27-43.jpg"
@@ -29912,7 +29912,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1698854942,
       "message": "00003255-VIDEO-2023-11-02-10-57-54.mp4"
@@ -29952,7 +29952,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1698919130,
       "message": "00003259-VIDEO-2023-11-02-14-55-38.mp4"
@@ -30219,7 +30219,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 34,
       "tstamp": 1698946828,
       "message": "00003290-PHOTO-2023-11-04-17-27-10.jpg"
@@ -30250,13 +30250,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1699115246,
       "message": "00003293-PHOTO-2023-11-07-17-48-00.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1699115246,
       "message": "00003294-AUDIO-2023-11-07-17-53-55.opus"
@@ -30302,7 +30302,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1700054828,
       "message": "00003299-AUDIO-2023-11-15-14-29-12.opus"
@@ -30420,7 +30420,7 @@
       "message": "https://vm.tiktok.com/ZM6JA8b6r/"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1701002866,
       "message": "00003310-VIDEO-2023-11-27-17-52-25.mp4"
@@ -30451,13 +30451,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1701104651,
       "message": "00003313-VIDEO-2023-11-27-18-06-10.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1701104651,
       "message": "00003314-VIDEO-2023-11-28-16-44-01.mp4"
@@ -30576,7 +30576,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1701278899,
       "message": "00003326-VIDEO-2023-11-29-19-06-19.mp4"
@@ -30618,7 +30618,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1701281401,
       "message": "00003331-VIDEO-2023-11-30-01-55-46.mp4"
@@ -30640,7 +30640,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1701305759,
       "message": "00003333-VIDEO-2023-11-30-01-56-02.mp4"
@@ -30993,7 +30993,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1701539217,
       "message": "00003371-PHOTO-2023-12-02-18-49-27.jpg"
@@ -31044,7 +31044,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 11,
       "tstamp": 1701539577,
       "message": "00003377-PHOTO-2023-12-02-18-53-43.jpg"
@@ -31122,7 +31122,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 20,
       "tstamp": 1701539697,
       "message": "00003386-PHOTO-2023-12-02-20-23-33.jpg"
@@ -31359,7 +31359,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 47,
       "tstamp": 1701552756,
       "message": "00003412-PHOTO-2023-12-02-22-50-15.jpg"
@@ -31401,13 +31401,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 52,
       "tstamp": 1701553863,
       "message": "00003417-PHOTO-2023-12-06-18-51-29.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 53,
       "tstamp": 1701553863,
       "message": "00003418-EkstraktIThjeshte-11_19_2023.pdf"
@@ -31747,7 +31747,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 38,
       "tstamp": 1701958656,
       "message": "00003454-PHOTO-2023-12-07-15-18-18.jpg"
@@ -31814,7 +31814,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1702139988,
       "message": "00003461-PHOTO-2023-12-17-15-43-41.jpg"
@@ -31860,7 +31860,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1702824247,
       "message": "00003465-PHOTO-2023-12-17-16-23-08.jpg"
@@ -31893,7 +31893,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1702826659,
       "message": "00003469-CamScanner 12-18-2023 15.28.pdf"
@@ -31940,7 +31940,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1703149479,
       "message": "00003473-PHOTO-2023-12-21-15-24-40.jpg"
@@ -32009,7 +32009,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1703171269,
       "message": "00003481-AUDIO-2023-12-21-16-08-03.opus"
@@ -32173,13 +32173,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1703597994,
       "message": "00003498-PHOTO-2023-12-26-15-16-54.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1703597994,
       "message": "00003499-PHOTO-2023-12-26-15-17-40.jpg"
@@ -32239,7 +32239,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 11,
       "tstamp": 1703600688,
       "message": "00003506-PHOTO-2023-12-26-15-25-18.jpg"
@@ -32578,7 +32578,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 49,
       "tstamp": 1703614298,
       "message": "00003544-AUDIO-2023-12-31-09-55-39.opus"
@@ -32903,7 +32903,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 36,
       "tstamp": 1704032558,
       "message": "00003579-VIDEO-2024-01-01-02-53-53.mp4"
@@ -33081,7 +33081,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1704909275,
       "message": "00003596-PHOTO-2024-01-10-18-54-55.jpg"
@@ -33222,13 +33222,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1705419209,
       "message": "00003609-PHOTO-2024-01-17-12-43-38.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1705419209,
       "message": "00003610-PHOTO-2024-01-17-12-43-38.jpg"
@@ -33296,7 +33296,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1705669044,
       "message": "00003615-PHOTO-2024-01-20-21-01-58.jpg"
@@ -33372,7 +33372,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1705940761,
       "message": "00003623-AUDIO-2024-01-22-17-26-28.opus"
@@ -33405,7 +33405,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1705941048,
       "message": "00003627-AUDIO-2024-01-22-17-31-03.opus"
@@ -33432,7 +33432,7 @@
       "message": "‎[22.1.24, 17:33:36] Mart: ‎image omitted"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1705941190,
       "message": "00003630-AUDIO-2024-01-22-17-34-12.opus"
@@ -33483,7 +33483,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 22,
       "tstamp": 1705941305,
       "message": "00003636-AUDIO-2024-01-22-17-35-16.opus"
@@ -33546,13 +33546,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1706649338,
       "message": "00003641-AUDIO-2024-02-03-11-16-13.opus"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1706649338,
       "message": "00003642-AUDIO-2024-02-03-13-32-28.opus"
@@ -33574,25 +33574,25 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1707053896,
       "message": "00003644-VIDEO-2024-02-06-10-13-11.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1707053896,
       "message": "00003645-VIDEO-2024-02-06-10-15-21.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1707053896,
       "message": "00003646-VIDEO-2024-02-06-10-15-55.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1707053896,
       "message": "00003647-PHOTO-2024-02-07-15-33-40.jpg"
@@ -33614,7 +33614,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1707316432,
       "message": "00003649-VIDEO-2024-02-10-19-48-14.mp4"
@@ -33742,7 +33742,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1708363201,
       "message": "00003662-PHOTO-2024-02-20-15-23-35.jpg"
@@ -33851,7 +33851,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1708439185,
       "message": "00003673-PHOTO-2024-02-20-15-26-37.jpg"
@@ -34176,7 +34176,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1708623289,
       "message": "00003708-Mart_Gjepali_-_Software_and_Web_Developer CV.pdf"
@@ -34262,13 +34262,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1709425033,
       "message": "00003717-Mart_Gjepali_-_Software_and_Web_Developer.pdf"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1709425033,
       "message": "00003718-PHOTO-2024-03-04-16-33-36.jpg"
@@ -34563,7 +34563,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1710787684,
       "message": "00003745-VIDEO-2024-03-19-14-07-37.mp4"
@@ -34594,7 +34594,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1710853732,
       "message": "00003748-VIDEO-2024-03-19-14-12-51.mp4"
@@ -34688,13 +34688,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1710938696,
       "message": "00003758-PHOTO-2024-03-20-13-44-56.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1710938696,
       "message": "00003759-PHOTO-2024-03-20-13-45-47.jpg"
@@ -34718,13 +34718,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1710938765,
       "message": "00003762-PHOTO-2024-03-20-13-46-18.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1710938765,
       "message": "00003763-PHOTO-2024-03-20-13-46-36.jpg"
@@ -34739,7 +34739,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1710938807,
       "message": "00003765-EkstraktIThjeshte-11_19_2023.pdf"
@@ -34817,7 +34817,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 19,
       "tstamp": 1710941373,
       "message": "00003774-PHOTO-2024-03-20-14-34-46.jpg"
@@ -35057,31 +35057,31 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 46,
       "tstamp": 1710943530,
       "message": "00003801-PHOTO-2024-03-20-15-07-12.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 47,
       "tstamp": 1710943530,
       "message": "00003802-PHOTO-2024-03-20-15-07-22.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 48,
       "tstamp": 1710943530,
       "message": "00003803-PHOTO-2024-03-20-15-07-40.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 49,
       "tstamp": 1710943530,
       "message": "00003804-PHOTO-2024-03-20-15-07-41.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 50,
       "tstamp": 1710943530,
       "message": "00003805-VIDEO-2024-03-20-23-34-01.mp4"
@@ -35121,19 +35121,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1711024775,
       "message": "00003809-PHOTO-2024-03-21-14-35-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1711024775,
       "message": "00003810-PHOTO-2024-03-21-14-35-20.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1711024775,
       "message": "00003811-PHOTO-2024-03-21-14-35-20.jpg"
@@ -35155,19 +35155,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1711106633,
       "message": "00003813-PHOTO-2024-03-22-14-57-36.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1711106633,
       "message": "00003814-PHOTO-2024-03-22-14-57-36.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1711106633,
       "message": "00003815-PHOTO-2024-03-22-14-57-37.jpg"
@@ -35440,7 +35440,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 18,
       "tstamp": 1711911248,
       "message": "00003842-Mart_Gjepali_-_Software_and_React_Developer.pdf"
@@ -35971,7 +35971,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1713276618,
       "message": "00003889-PHOTO-2024-04-16-16-16-39.jpg"
@@ -36010,7 +36010,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1713277086,
       "message": "00003893-VIDEO-2024-04-16-19-51-06.mp4"
@@ -36313,7 +36313,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 41,
       "tstamp": 1713291447,
       "message": "00003927-PHOTO-2024-04-30-11-51-33.jpg"
@@ -36335,13 +36335,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1714563740,
       "message": "00003929-PHOTO-2024-05-02-14-58-12.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1714563740,
       "message": "00003930-PHOTO-2024-05-02-14-58-12.jpg"
@@ -36363,13 +36363,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1714654726,
       "message": "00003932-PHOTO-2024-05-02-15-19-04.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1714654726,
       "message": "00003933-PHOTO-2024-05-02-15-19-22.jpg"
@@ -36442,7 +36442,7 @@
       "message": "Ju lutemi, mandatin e pageses si dhe karten tuaj ID ta dergoni me foto, per te vijuar me proceduren e zhdoganimit."
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1715180889,
       "message": "00003936-PHOTO-2024-05-08-17-08-08.jpg"
@@ -36614,7 +36614,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1715332105,
       "message": "00003950-PHOTO-2024-05-10-13-10-11.jpg"
@@ -36834,7 +36834,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1715605249,
       "message": "00003974-PHOTO-2024-05-13-15-00-56.jpg"
@@ -36894,7 +36894,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1715606652,
       "message": "00003981-PHOTO-2024-05-14-14-01-53.jpg"
@@ -37015,7 +37015,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 13,
       "tstamp": 1715689099,
       "message": "00003994-c97de51e-ef1e-48c4-b1cb-bc281cc160ff.pdf"
@@ -37030,7 +37030,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 15,
       "tstamp": 1715689118,
       "message": "00003996-7e2ea9f7-3776-4233-b576-5facdb6ea91a.pdf"
@@ -37232,7 +37232,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 22,
       "tstamp": 1716296189,
       "message": "00004018-PHOTO-2024-05-22-17-01-37.jpg"
@@ -37474,13 +37474,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 23,
       "tstamp": 1716953689,
       "message": "00004043-PHOTO-2024-05-31-14-35-19.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 24,
       "tstamp": 1716953689,
       "message": "00004044-PHOTO-2024-05-31-14-35-24.jpg"
@@ -37865,7 +37865,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 13,
       "tstamp": 1718706434,
       "message": "00004082-PHOTO-2024-06-18-12-28-01.jpg"
@@ -37898,13 +37898,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 17,
       "tstamp": 1718706567,
       "message": "00004086-PHOTO-2024-06-18-19-50-33.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 18,
       "tstamp": 1718706567,
       "message": "00004087-PHOTO-2024-06-18-19-51-15.jpg"
@@ -38052,7 +38052,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1718801992,
       "message": "00004103-PHOTO-2024-06-20-10-13-51.jpg"
@@ -38216,19 +38216,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1719136434,
       "message": "00004120-PHOTO-2024-06-24-17-41-07.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 17,
       "tstamp": 1719136434,
       "message": "00004121-PHOTO-2024-06-24-17-41-21.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 18,
       "tstamp": 1719136434,
       "message": "00004122-PHOTO-2024-06-24-17-41-21.jpg"
@@ -38250,7 +38250,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1719243691,
       "message": "00004124-PHOTO-2024-06-24-17-41-50.jpg"
@@ -38265,7 +38265,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1719245896,
       "message": "00004126-PHOTO-2024-06-26-13-15-45.jpg"
@@ -38532,7 +38532,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1719571085,
       "message": "00004153-PHOTO-2024-06-28-12-38-20.jpg"
@@ -39078,7 +39078,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 70,
       "tstamp": 1719587533,
       "message": "00004214-PHOTO-2024-06-29-21-31-04.jpg"
@@ -39215,7 +39215,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1719724459,
       "message": "00004228-PHOTO-2024-06-30-07-14-32.jpg"
@@ -39558,7 +39558,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1720035022,
       "message": "00004265-PHOTO-2024-07-05-12-36-17.jpg"
@@ -39589,7 +39589,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1720176584,
       "message": "00004268-PHOTO-2024-07-05-13-56-54.jpg"
@@ -39604,7 +39604,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1720180673,
       "message": "00004270-VIDEO-2024-07-06-16-57-37.mp4"
@@ -39822,7 +39822,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 21,
       "tstamp": 1720359381,
       "message": "00004293-VIDEO-2024-07-07-18-25-05.mp4"
@@ -39885,7 +39885,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1721146580,
       "message": "00004298-AUDIO-2024-07-17-13-45-36.opus"
@@ -39958,13 +39958,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1721216828,
       "message": "00004305-AUDIO-2024-07-17-13-47-29.opus"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 9,
       "tstamp": 1721216828,
       "message": "00004306-AUDIO-2024-07-17-13-47-44.opus"
@@ -39988,13 +39988,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1721216977,
       "message": "00004309-AUDIO-2024-07-17-13-50-12.opus"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 13,
       "tstamp": 1721216977,
       "message": "00004310-AUDIO-2024-07-17-13-50-28.opus"
@@ -40018,19 +40018,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1721217096,
       "message": "00004313-VIDEO-2024-07-17-13-58-14.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 17,
       "tstamp": 1721217096,
       "message": "00004314-PHOTO-2024-07-17-13-58-16.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 18,
       "tstamp": 1721217096,
       "message": "00004315-VIDEO-2024-07-17-13-58-30.mp4"
@@ -40054,19 +40054,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 21,
       "tstamp": 1721217536,
       "message": "00004318-AUDIO-2024-07-17-13-59-38.opus"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 22,
       "tstamp": 1721217536,
       "message": "00004319-VIDEO-2024-07-17-14-03-08.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 23,
       "tstamp": 1721217536,
       "message": "00004320-AUDIO-2024-07-17-14-11-09.opus"
@@ -40090,7 +40090,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 26,
       "tstamp": 1721218318,
       "message": "00004323-AUDIO-2024-07-17-14-12-20.opus"
@@ -40114,7 +40114,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 29,
       "tstamp": 1721218392,
       "message": "00004326-PHOTO-2024-07-18-13-45-19.jpg"
@@ -40136,19 +40136,19 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1721303163,
       "message": "00004328-VIDEO-2024-07-18-15-47-13.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1721303163,
       "message": "00004329-VIDEO-2024-07-18-15-47-13.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1721303163,
       "message": "00004330-VIDEO-2024-07-18-15-47-13.mp4"
@@ -40358,7 +40358,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 28,
       "tstamp": 1721311095,
       "message": "00004353-AUDIO-2024-07-20-10-01-16.opus"
@@ -40533,7 +40533,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 19,
       "tstamp": 1721462901,
       "message": "00004372-AUDIO-2024-07-20-11-16-35.opus"
@@ -40548,7 +40548,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 21,
       "tstamp": 1721467405,
       "message": "00004374-AUDIO-2024-07-20-11-23-59.opus"
@@ -40635,7 +40635,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 31,
       "tstamp": 1721494360,
       "message": "00004384-PHOTO-2024-08-08-18-02-36.jpg"
@@ -40657,7 +40657,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1723133002,
       "message": "00004386-PHOTO-2024-08-10-13-10-40.jpg"
@@ -40881,7 +40881,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 12,
       "tstamp": 1723398809,
       "message": "00004410-PHOTO-2024-08-13-14-37-09.jpg"
@@ -40961,7 +40961,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1723714885,
       "message": "00004417-PHOTO-2024-08-15-17-59-46.jpg"
@@ -41211,7 +41211,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1723926252,
       "message": "00004443-VIDEO-2024-08-18-00-09-59.mp4"
@@ -41278,13 +41278,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1723932709,
       "message": "00004450-VIDEO-2024-08-20-13-56-32.mp4"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1723932709,
       "message": "00004451-PHOTO-2024-08-20-13-56-51.jpg"
@@ -41374,7 +41374,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1724368912,
       "message": "00004459-PHOTO-2024-08-27-17-17-09.jpg"
@@ -41432,7 +41432,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1724771967,
       "message": "00004465-Irda Sweeden.vcf"
@@ -41551,13 +41551,13 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1724944214,
       "message": "00004477-AUDIO-2024-08-29-17-10-33.opus"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1724944214,
       "message": "00004478-AUDIO-2024-08-29-17-10-37.opus"
@@ -41590,7 +41590,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 8,
       "tstamp": 1724944510,
       "message": "00004482-VIDEO-2024-08-29-23-15-35.mp4"
@@ -41784,7 +41784,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1726508148,
       "message": "00004500-PHOTO-2024-09-17-12-37-03.jpg"
@@ -42258,7 +42258,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 10,
       "tstamp": 1726739496,
       "message": "00004548-PHOTO-2024-09-19-11-51-43.jpg"
@@ -42318,7 +42318,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 17,
       "tstamp": 1726740043,
       "message": "00004555-PHOTO-2024-09-23-18-44-59.jpg"
@@ -42367,7 +42367,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1727533318,
       "message": "00004560-PHOTO-2024-09-28-21-24-19.jpg"
@@ -42870,7 +42870,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 22,
       "tstamp": 1728396324,
       "message": "00004614-VIDEO-2024-10-09-21-31-20.mp4"
@@ -43115,7 +43115,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 14,
       "tstamp": 1728645777,
       "message": "00004640-AUDIO-2024-10-11-13-25-06.opus"
@@ -43815,7 +43815,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 2,
       "tstamp": 1729450457,
       "message": "00004713-PHOTO-2024-10-21-15-46-14.jpg"
@@ -43843,31 +43843,31 @@
       "message": "CV ta coje te hr.tia@lhind.dlh.de Rimo Turi jam , kjo adresa eshte per Martin te aplkoj te Lufthans per programues"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1729518440,
       "message": "00004715-PHOTO-2024-10-21-16-29-00.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 4,
       "tstamp": 1729518440,
       "message": "00004716-PHOTO-2024-10-21-16-29-00.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 5,
       "tstamp": 1729518440,
       "message": "00004717-PHOTO-2024-10-21-16-29-00.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1729518440,
       "message": "00004718-PHOTO-2024-10-21-16-29-00.jpg"
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 7,
       "tstamp": 1729518440,
       "message": "00004719-PHOTO-2024-10-21-16-29-00.jpg"
@@ -43898,7 +43898,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 3,
       "tstamp": 1729620577,
       "message": "00004722-VIDEO-2024-10-22-20-18-16.mp4"
@@ -44009,7 +44009,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 16,
       "tstamp": 1729621729,
       "message": "00004734-VIDEO-2024-10-27-15-43-53.mp4"
@@ -44419,7 +44419,7 @@
       "fromMe": false
     },
     {
-      "type": "media",
+      "type": "msg",
       "index": 6,
       "tstamp": 1730120452,
       "message": "00004777-VIDEO-2024-10-28-14-01-08.mp4"

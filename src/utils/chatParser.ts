@@ -3,7 +3,7 @@ import moment from "moment";
 import { createHash } from "crypto";
 
 type ChatMessage = {
-  type: "msg" | "dchange" | "notification" | "media";
+  type: "msg" | "dchange" | "notification";
   index: number;
   tstamp: number;
   hour?: string;
@@ -68,7 +68,7 @@ function parseChatContent(
       if (mediaMatch) {
         const mediaFile = mediaMatch[1].trim();
         chatMessages.push({
-          type: "media",
+          type: "msg",
           index: msgIndex++,
           tstamp: timestamp,
           message: mediaFile,
@@ -129,7 +129,7 @@ function parseChatContent(
       if (mediaMatch) {
         const mediaFile = mediaMatch[1].trim();
         chatMessages.push({
-          type: "media",
+          type: "msg",
           index: msgIndex++,
           tstamp: lastTimestamp, // Use the last valid timestamp
           message: mediaFile,
